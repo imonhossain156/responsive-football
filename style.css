@@ -210,14 +210,15 @@ height: 427px;
         display: flex;
         flex-direction: column;
         margin-top: 80px;
-        padding: 30px;
+        padding-right: 100px;
         background: white;
         box-shadow: 4px 4px 10px grey;
         flex-direction: column;
         align-items: center;
     }
     .highlight-image img{
-        width: 100%;
+        width: 150%;
+        height: 100%;
         
         }
         .player{
